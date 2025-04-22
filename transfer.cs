@@ -2,7 +2,7 @@
 
 namespace timb3
 {
-    public class Perevodyatel
+    public class transfer
     {
         public static string BytesToStr(byte[] data)
         {
